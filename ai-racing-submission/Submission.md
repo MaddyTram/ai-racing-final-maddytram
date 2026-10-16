@@ -9,7 +9,7 @@
 | Metric | Real Baseline (`snakeoil3_gym.py` v0.1) | Final Driver (`torcs_jm_par.py` v1.33) |
 | :--- | :--- | :--- |
 | **Best Lap Time (s)** | Crashed on lap 1 (No time) | **2:11:30** |
-| **Target / Speed** | Aimed for 250 km/h (No braking) | Controlled entry speeds & optimized top speed |
+| **Target / Speed** | Aimed for 300 km/h (No braking) | Controlled entry speeds & optimized top speed, around 150km/h |
 | **Off-Track / Damage** | Severe crash | **Zero damage** |
 | **Completion Rate (%)** | 0% (Did not finish) | **100% (Completed)** |
 
